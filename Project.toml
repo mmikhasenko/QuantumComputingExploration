@@ -1,0 +1,14 @@
+name = "QuantumComputing"
+uuid = "9629afd4-d813-4ba8-94cf-4d92cadad7ea"
+authors = ["Misha Mikhasenko <mikhail.mikhasenko@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SymEngine = "123dc426-2d89-5057-bbad-38513e3affd8"
+SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
+Yao = "5872b779-8223-5990-8dd0-5abbb0748c8c"
+YaoExtensions = "7a06699c-c960-11e9-3c98-9f78548b5f0f"
